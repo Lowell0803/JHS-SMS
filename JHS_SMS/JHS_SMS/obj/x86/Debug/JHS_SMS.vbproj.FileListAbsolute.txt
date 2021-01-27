@@ -1,0 +1,32 @@
+C:\Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.Form1.resources
+C:\Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.Form2.resources
+C:\Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.Resources.resources
+C:\Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.vbproj.GenerateResource.Cache
+C:\Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.exe.config
+C:\Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.exe
+C:\Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.pdb
+C:\Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.xml
+C:\Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.exe
+C:\Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.xml
+C:\Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.pdb
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.exe.config
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.exe.manifest
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.application
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.exe
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.pdb
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.xml
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.Form1.resources
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.Form2.resources
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.Form3.resources
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.Resources.resources
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.vbproj.GenerateResource.Cache
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.exe.manifest
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.application
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.exe
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.xml
+C:\Users\Yvan Lowell\Desktop\Lowell\PROJECTS\[2] Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.pdb
+C:\Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.exe.manifest
+C:\Computer9\JHS_SMS\JHS_SMS\bin\Debug\JHS_SMS.application
+C:\Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.exe.manifest
+C:\Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.application
+C:\Computer9\JHS_SMS\JHS_SMS\obj\x86\Debug\JHS_SMS.vbprojResolveAssemblyReference.cache
