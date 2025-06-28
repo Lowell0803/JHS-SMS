@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="35" viewBox="0 0 190 35">
+  <!-- Left: FIRST -->
+  <rect width="80" height="35" fill="#DAA520" />
+  <!-- Right: PROJECT -->
+  <rect x="80" width="110" height="35" fill="#FFD700" />
+
+  <!-- FIRST text -->
+  <text x="40" y="23" font-size="12" font-family="'Roboto', sans-serif" fill="#fffbe6" text-anchor="middle" font-weight="900" letter-spacing="2">FIRST</text>
+
+  <!-- PROJECT text -->
+  <text x="135" y="23" font-size="12" font-family="'Montserrat', sans-serif" fill="#6b4f00" text-anchor="middle" letter-spacing="2">PROJECT</text>
+</svg>
